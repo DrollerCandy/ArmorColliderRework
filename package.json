@@ -1,0 +1,8 @@
+{
+  "name": "armor-plate-collider-rewrite",
+  "author": "DrollerCandy",
+  "version": "1.5.0",
+  "license": "MIT",
+  "main": "src/mod.js",
+  "sptVersion": "3.11.4"
+}
